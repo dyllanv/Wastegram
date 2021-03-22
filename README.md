@@ -1,8 +1,8 @@
 Wasteagram: \
 A mobile app that enables coffee shop employees to document daily food waste in the form of "posts" consisting of a photo, number of leftover items, the current date, and the location of the device when the post is created. The application should also display a list of all previous posts. \
-\
+
 The functional requirements are: \
-\
+
 - Display a circular progress indicator when there are no previous posts to display in the List Screen. \
 - The List Screen should display a list of all previous posts, with the most recent at the top of the list. \
 - Each post in the List Screen should be displayed as a date, representing the date the post was created, and a number, representing the total number of wasted items recorded in the post. \
@@ -16,7 +16,7 @@ The functional requirements are: \
 - In the New Post screen, tapping the back button in the app bar should cause the List Screen to appear. \
 - In the New Post screen, tapping the large upload button should cause the List Screen to appear, with the latest post now appearing at the top of the list. \
 - In the New Post screen, if the Number of Items field is empty, tapping the upload button should cause a sensible error message to appear. \
- \
+ 
 In addition to the functional requirements above, your application should meet the following technical requirements: \
 - Use the location, image_picker, cloud_firestore, and firebase_storage packages to meet the functional and technical requirements. \
 - Incorporate the use of Firebase Cloud Storage and Firebase Cloud Firestore for storing images and post data. \
@@ -28,7 +28,7 @@ In addition to the functional requirements above, your application should meet t
 - The application should incorporate the Semantics widget in multiple places, such as interactive widgets like buttons, to aid accessibility. \
 - The codebase should incorporate a model class. \
 - The codebase should incorporate a few (two or three) simple unit tests that test the model class. \
-\
+
 To run: \
 - Setup Flutter: https://flutter.dev/docs/get-started/install/windows \
 - Create flutter project: Example, 'flutter create --org edu.oregonstate.YOURONID wasteagram' \
