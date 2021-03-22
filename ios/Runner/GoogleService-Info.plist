@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>136016276372-223nj4f603svrq54msbfruov30kps5hu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.136016276372-223nj4f603svrq54msbfruov30kps5hu</string>
+	<key>API_KEY</key>
+	<string>*****</string>
+	<key>GCM_SENDER_ID</key>
+	<string>136016276372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.oregonstate.vangemed.wasteagram</string>
+	<key>PROJECT_ID</key>
+	<string>wasteagram-f9b9d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wasteagram-f9b9d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:136016276372:ios:1d92be1cb979ce5533fd81</string>
+</dict>
+</plist>
